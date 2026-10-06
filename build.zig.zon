@@ -1,0 +1,10 @@
+.{
+    .name = .splendente,
+    .version = "0.1.0",
+    .fingerprint = 0x36eb341777d4ca2e,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "stx",
+    },
+}
