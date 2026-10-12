@@ -88,6 +88,10 @@ if (maybe_doc) |doc| {
 }
 ```
 
+## Programs using Splendente
+
+[![GIMP plugin for working with STX files](https://raw.githubusercontent.com/kotwys/stx-gimp-plugin/master/assets/banner.jpg)][stx-gimp-plugin]
+
 ## Acknowledgements
 
 I would like to thank AnDi~SD for his [extensive documentation on the Sparkplug
